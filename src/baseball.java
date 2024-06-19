@@ -69,7 +69,6 @@ public class baseball{
                 game = true;
                 System.out.println(count + "번만에 맞히셨습니다");
                 System.out.println("게임을 종료합니다.");
-                System.out.println("성공했습니다");
             }
 
         }
